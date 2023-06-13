@@ -1,0 +1,16 @@
+*{
+    
+}
+.d-flex{
+    background-color: rgb(243,243,250);
+}
+.primary{
+    background-color: rgb(1,0,254);
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.secondary{
+    background-color: rgb(1,0,254);
+    margin-top: 20px;
+    margin-left: 130px;
+}
